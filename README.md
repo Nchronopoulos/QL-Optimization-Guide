@@ -12,7 +12,8 @@ This is a **complete SQL optimization guide** covering:
 ## 📌 How to Use
 - The **free** Markdown version (`sql_optimization_guide.md`) is available here.
 - The **Professional Edition (PDF + Bonus)** is available on **Gumroad**:  
-  👉 [Get the Full Version Here]([https://gumroad.com/YOUR_LINK_HERE](https://chronoscribe.gumroad.com/l/sql-optimization-guide)
+  👉 [Get the Full Version Here](https://chronoscribe.gumroad.com/l/sql-optimization-guide)
+
 
 ## 📌 About
 This guide is designed for **developers, data analysts, and DBAs** who want to optimize their SQL queries efficiently.  
